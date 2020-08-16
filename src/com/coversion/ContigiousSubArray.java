@@ -1,7 +1,7 @@
 package com.coversion;
 /**
  * 
- * @author Sridhar.
+ * @author Sridhar. 
  * Given an array arr of size N and an integer K, the task is to find the maximum for each and every
 contiguous subarray of size K.
 Example Input &amp; Output:
